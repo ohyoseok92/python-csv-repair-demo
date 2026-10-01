@@ -2,7 +2,7 @@
 
 A minimal, dependency-free example of turning a reproducible CSV parsing failure into a tested repair.
 
-This is a self-produced demonstration, not paid client work. It supports the [Python & Browser Automation Rescue — 6-Hour Sprint](https://ko-fi.com/c/36789bd8ca?utm_source=github&utm_medium=repository&utm_campaign=conversion_v2&utm_content=csv_repair_demo).
+This is a self-produced demonstration, not paid client work. It supports the Python & Browser Automation Rescue — 6-Hour Sprint. [Review the scope and request a fit check before payment](https://payhip.com/b/yUF4Q).
 
 ## The failure
 
@@ -39,4 +39,4 @@ OK
 
 ## Need help with a broken automation?
 
-The fixed-price rescue sprint covers one reproducible Python or permitted browser-automation failure, including diagnosis, the agreed change, repeatable verification, and concise handoff notes. [See the scope before ordering](https://ko-fi.com/c/36789bd8ca?utm_source=github&utm_medium=repository&utm_campaign=conversion_v2&utm_content=csv_repair_demo).
+The fixed-price rescue sprint covers one reproducible Python or permitted browser-automation failure, including diagnosis, the agreed change, repeatable verification, and concise handoff notes. [Review the scope and request a fit check before payment](https://payhip.com/b/yUF4Q). If the agreed scope is clear, [order through Ko-fi](https://ko-fi.com/c/36789bd8ca?utm_source=github&utm_medium=repository&utm_campaign=conversion_v3&utm_content=csv_repair_demo).
