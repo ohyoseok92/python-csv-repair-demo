@@ -37,6 +37,16 @@ OK
 - `csv_repair.py`: failing legacy implementation and repaired implementation
 - `test_csv_repair.py`: regression tests for the failure, repair, and invalid-input boundary
 
+## Before requesting a scope review
+
+A short, redacted example helps me decide whether the issue fits one six-hour sprint. Please include:
+
+- The Python/library or browser tool and version, plus the expected and actual result.
+- The smallest steps and sample input that reproduce the failure; include the exact error if there is one.
+- The output format you need, any behavior that must stay unchanged, and your deadline/time zone.
+
+Remove passwords, API keys, payment details, and personal or customer data. A fictional sample is fine for the first review. I confirm the definition of done and whether the USD 99 fixed-price scope fits **before** you pay. If it does not fit, I will describe a smaller possible first milestone rather than promise a full repair in six hours.
+
 ## Need help with a broken automation?
 
 The fixed-price rescue sprint covers one reproducible Python or permitted browser-automation failure, including diagnosis, the agreed change, repeatable verification, and concise handoff notes. [Review the scope and request a fit check before payment](https://payhip.com/b/yUF4Q). If the agreed scope is clear, [order through Ko-fi](https://ko-fi.com/c/36789bd8ca?utm_source=github&utm_medium=repository&utm_campaign=conversion_v3&utm_content=csv_repair_demo).
