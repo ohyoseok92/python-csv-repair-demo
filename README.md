@@ -37,6 +37,10 @@ OK
 - `csv_repair.py`: failing legacy implementation and repaired implementation
 - `test_csv_repair.py`: regression tests for the failure, repair, and invalid-input boundary
 
+## Free handoff checklist
+
+The [CSV automation handoff checklist](docs/csv-automation-handoff-checklist.md) gives a reusable way to record scope, test evidence, limits, rollback, and requester sign-off for a small repair. It uses the tests in this repository as a worked example.
+
 ## Before requesting a scope review
 
 A short, redacted example helps me decide whether the issue fits one six-hour sprint. Please include:
