@@ -20,9 +20,9 @@ For the demo, the agreed boundary is narrow: skip blank or whitespace-only rows;
 
 | Behavior | Example input | Expected result | Evidence |
 | --- | --- | --- | --- |
-| Original failure is reproducible | `10\\n\\n20\\n30\\n` | Legacy parser raises `ValueError` | `test_legacy_behavior_reproduces_blank_row_crash` |
-| Blank rows are skipped | `10\\n\\n  \\n20\\n30\\n` | `[10, 20, 30]` | `test_fixed_behavior_skips_blank_and_whitespace_rows` |
-| Bad non-empty data stays visible | `10\\nnope\\n30\\n` | Fixed parser raises `ValueError` | `test_fixed_behavior_preserves_visible_invalid_input` |
+| Original failure is reproducible | `10\n\n20\n30\n` | Legacy parser raises `ValueError` | `test_legacy_behavior_reproduces_blank_row_crash` |
+| Blank rows are skipped | `10\n\n  \n20\n30\n` | `[10, 20, 30]` | `test_fixed_behavior_skips_blank_and_whitespace_rows` |
+| Bad non-empty data stays visible | `10\nnope\n30\n` | Fixed parser raises `ValueError` | `test_fixed_behavior_preserves_visible_invalid_input` |
 
 Run `python -m unittest -v test_csv_repair.py` from the repository root. Save the command, environment, test output, and date in the handoff. A green test suite proves only the cases it covers; production files and downstream systems need their own checks.
 
