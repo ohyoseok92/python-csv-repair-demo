@@ -54,3 +54,5 @@ Remove passwords, API keys, payment details, and personal or customer data. A fi
 ## Need help with a broken automation?
 
 The fixed-price rescue sprint covers one reproducible Python or permitted browser-automation failure, including diagnosis, the agreed change, repeatable verification, and concise handoff notes. [Review the scope and request a fit check before payment](https://payhip.com/b/yUF4Q). If the agreed scope is clear, [order through Ko-fi](https://ko-fi.com/c/36789bd8ca?utm_source=github&utm_medium=repository&utm_campaign=conversion_v3&utm_content=csv_repair_demo).
+
+Based in South Korea and prefer a Korean-language request and local checkout? [See the same six-hour Python repair service on 크몽](https://kmong.com/gig/832484). Send a small redacted reproduction and the expected result first; I will confirm whether the issue fits the listed scope before you order.
